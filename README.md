@@ -8,5 +8,6 @@
 
 ***1. Online Retail  Exploratory Data Analysis ( Python)***
    Tools: Pandas, Matplotlib, Numpy
+   
    Description: Performed exploratory data analysis on a UK-based online retail dataset to uncover customer purchasing behavior, product popularity, and seasonal trends.
    Key Insights: Identified top-selling products, trends in sales over time, and customer segmentation.
