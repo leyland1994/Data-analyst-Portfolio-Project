@@ -2,7 +2,8 @@
 
 Welcome to my Data Analyst Portfolio! This repository showcases a selection of beginner-friendly yet insightful projects that demonstrate my skills in data cleaning, exploration, and visualization. Each project aims to provide actionable insights for real-world business questions.
 
-🔍 Projects Included
+🔍 Projects Included:
+
 ***1. Online Retail Exploratory Data Analysis (Python)***
 
 Tools: Pandas, NumPy, Matplotlib
