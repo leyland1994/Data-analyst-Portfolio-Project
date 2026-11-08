@@ -28,9 +28,9 @@ Analyzed a dataset of social media posts to understand engagement patterns, iden
 
 ### 3. Sales & Marketing Performance Dashboard (Power BI)
 
-**Tools:** Power BI, DAX, Data Modeling, Excel[cite: 1]
+**Tools:** Power BI, DAX, Data Modeling, Excel.
 
-**Description:** Built an end-to-end interactive dashboard to evaluate lead generation performance, conversion metrics, and sales pipeline velocity across marketing channels[cite: 1].
+**Description:** Built an end-to-end interactive dashboard to evaluate lead generation performance, conversion metrics, and sales pipeline velocity across marketing channels.
 
 **Key Insights:**
 * Analyzed 8,000 Marketing Qualified Leads (MQLs) across key channels
