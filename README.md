@@ -33,10 +33,12 @@ Analyzed a dataset of social media posts to understand engagement patterns, iden
 **Description:** Built an end-to-end interactive dashboard to evaluate lead generation performance, conversion metrics, and sales pipeline velocity across marketing channels[cite: 1].
 
 **Key Insights:**
-* Analyzed 8,000 Marketing Qualified Leads (MQLs) across key channels[cite: 1].
-* Identified top conversion drivers delivering an overall 10.53% conversion rate (842 closed deals)[cite: 1].
-* Evaluated pipeline velocity, uncovering an average 48-day sales cycle with variance across business segments[cite: 1].
+* Analyzed 8,000 Marketing Qualified Leads (MQLs) across key channels
+
+* Identified top conversion drivers delivering an overall 10.53% conversion rate (842 closed deals)
+* Evaluated pipeline velocity, uncovering an average 48-day sales cycle with variance across business segments
 Key Insights:
+<img width="1190" height="672" alt="Capture d&#39;écran 2026-08-14 183342" src="https://github.com/user-attachments/assets/dc024293-7baf-4749-9fc3-2bcc5f519c0f" />
 
 Viral posts are rare; consistent posting drives engagement more than isolated spikes.
 
